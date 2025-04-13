@@ -1,11 +1,11 @@
 #  Develop a streamlit based secure data storage and retrieval system
 
-import streamlit as st # type: ignore
+import streamlit as st 
 import hashlib 
 import json
 import os
 import time
-from cryptography.fernet import Fernet # type: ignore
+from cryptography.fernet import Fernet 
 from base64 import urlsafe_b64encode
 from hashlib import pbkdf2_hmac
 
