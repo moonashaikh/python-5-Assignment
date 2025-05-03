@@ -13,4 +13,4 @@ mysql-connector-python==9.2.0
 plotly==6.0.0
 streamlit-lottie==0.0.5
 streamlit_folium==0.24.0
-requests==2.32.
+requests==2.32.0
